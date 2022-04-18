@@ -27,5 +27,6 @@ module.exports = {
     "react-hooks/exhaustive-deps": "error",
     "@typescript-eslint/switch-exhaustiveness-check": "error",
     "@typescript-eslint/ban-ts-comment": 0,
+    "@typescript-eslint/no-empty-function": 0,
   },
 }
